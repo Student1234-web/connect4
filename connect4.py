@@ -40,7 +40,7 @@ def logic_gate_proc():
        
         try:
            
-            choice = int(input(f"Player {char} move: "))
+            choice = 3
            
             placed = False
             for r in range(5, -1, -1):
